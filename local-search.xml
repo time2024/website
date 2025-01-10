@@ -4,16 +4,55 @@
   
   
   <entry>
-    <title>Hello World</title>
-    <link href="/website/2025/01/09/hello-world/"/>
-    <url>/website/2025/01/09/hello-world/</url>
+    <title>测试页3</title>
+    <link href="/website/2025/01/10/%E6%B5%8B%E8%AF%95%E9%A1%B53/"/>
+    <url>/website/2025/01/10/%E6%B5%8B%E8%AF%95%E9%A1%B53/</url>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>这一页主要用来测试</p><span id="more"></span><h1 id="测试页3"><a href="#测试页3" class="headerlink" title="测试页3"></a>测试页3</h1>]]></content>
     
     
     
   </entry>
   
+  
+  
+  <entry>
+    <title>测试页2</title>
+    <link href="/website/2025/01/10/%E6%B5%8B%E8%AF%95%E9%A1%B52/"/>
+    <url>/website/2025/01/10/%E6%B5%8B%E8%AF%95%E9%A1%B52/</url>
+    
+    <content type="html"><![CDATA[<p>这一页主要用来测试</p><span id="more"></span><h1 id="测试页2"><a href="#测试页2" class="headerlink" title="测试页2"></a>测试页2</h1>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>测试页1</title>
+    <link href="/website/2025/01/09/%E6%B5%8B%E8%AF%95%E9%A1%B51/"/>
+    <url>/website/2025/01/09/%E6%B5%8B%E8%AF%95%E9%A1%B51/</url>
+    
+    <content type="html"><![CDATA[<p>这一页主要用来测试</p><span id="more"></span><h1 id="测试页"><a href="#测试页" class="headerlink" title="测试页"></a>测试页</h1><h2 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h2><blockquote><p>首先各级标题都没问题</p></blockquote><h2 id="图片展示测试"><a href="#图片展示测试" class="headerlink" title="图片展示测试"></a>图片展示测试</h2><p><img src="/website/%5Cimages%5C%E7%A9%BA%E5%BC%A6.png" alt="空弦"></p><p><img src="/website/%5Cimages%5C%E9%93%83%E5%85%B0.gif" alt="铃兰"></p><h2 id="各种标记"><a href="#各种标记" class="headerlink" title="各种标记"></a>各种标记</h2><blockquote><p><strong>加粗</strong></p><p>斜体*</p><p><del>删除线</del></p><p><u>下划线</u></p></blockquote><h2 id="首页展示"><a href="#首页展示" class="headerlink" title="首页展示"></a>首页展示</h2><blockquote><p>如首页看到的一样</p><p>首页的图片可以自定义</p></blockquote><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>应该这些功能就够了</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+  
+  
+  <entry>
+    <title>“冀东震忆，工启新城”唐山实践</title>
+    <link href="/website/"/>
+    <url>/website/</url>
+    
+    <content type="html"><![CDATA[<blockquote><p>【实践地点】：河北省唐山市 </p></blockquote><blockquote><p>【实践概述】：本次实践活动于河北省唐山市开展，团队将通过<strong>实地考察</strong>（走进唐山钢铁煤 矿等传统工业遗址，了解产业变迁）、<strong>文旅产业调研</strong>（河头老街、园博会举办地南湖）、<strong>民生走访</strong>（深入社区街头，与当地居民交流，了解城市转型于民生的改变）等方式，重走唐山市在大地震后的<strong>涅槃之路</strong>，深入探索重工业城市的<strong>工业脉络</strong>，思考在<strong>“绿水青山就是金山银山”</strong>的大环境下唐山做出的<strong>转型发展</strong>。 </p></blockquote><blockquote><p>【预期目标】：团队成果：通过调研、走访，成员将深入了解唐山工业发展之路、震后重建之路，利用互联网等多种渠道向更广泛的社会面宣传唐山的发展历史，基于此制作微纪录片；面对唐山经济转型难的境况，队伍尝试为政府进言献策，为唐山发展贡献自己的力量；向外界宣传大工风采，在当地优秀中学建立常态化的联络机制。个人收获：提升专业 实践能力，与企业、政府人员接洽，拓展人脉，为未来职业发展奠基。 </p></blockquote>]]></content>
+    
+  </entry>
   
   
   
