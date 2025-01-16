@@ -37,7 +37,7 @@
     <link href="/website/"/>
     <url>/website/</url>
     
-    <content type="html"><![CDATA[<p>“冀东震忆，工启新城”唐山实践纪录片</p><video controls width="100%">  <source src="/images/test.mp4" type="video/mp4">  您的浏览器不支持视频标签。</video>]]></content>
+    <content type="html"><![CDATA[<p>“冀东震忆，工启新城”唐山实践纪录片</p><video controls width="100%">  <source src="/website/images/test.mp4" type="video/mp4">  您的浏览器不支持视频标签。</video>]]></content>
     
   </entry>
   
